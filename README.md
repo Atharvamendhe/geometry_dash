@@ -1,1 +1,1 @@
-# geometry_dash_level1.py
+its just a basic sturucture created for testing will be improved in future
